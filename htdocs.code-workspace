@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../xampp/htdocs"
+		},
+		{
+			"path": "\\\\WIN-TOSKAI2JC1H\\htdocs\\"
+		},
+		{
+			"path": "../Agenda"
+		},
+		{
+			"path": "../cleiton"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htdocs"
+	}
+}
